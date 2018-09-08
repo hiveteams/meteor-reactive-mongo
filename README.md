@@ -1,6 +1,6 @@
 reactive-mongo
 ==============
-
+x
 Meteor smart package which provides a fully reactive server-side MongoDB queries. This allows them to be used
 in [server-side autorun](https://github.com/peerlibrary/meteor-server-autorun), together with other
 fibers-enabled synchronous ([blocking](https://github.com/peerlibrary/meteor-blocking)) code.
